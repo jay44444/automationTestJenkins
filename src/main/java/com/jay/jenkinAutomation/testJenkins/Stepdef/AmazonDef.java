@@ -20,7 +20,11 @@ public class AmazonDef {
 	@Given("^Open Google Chrome$")
 	public void open_Google_Chrome() throws Throwable {
 		try {
-			System.setProperty("webdriver.chrome.driver", "C:\\Users\\jadurais\\Downloads\\chromedriver_win32\\New\\chromedriver.exe");
+			String workDir = System.getProperty("user.dir");
+			System.out.println(workDir);
+			workDir = workDir + "\\src\\main\\java\\com\\jay\\jenkinAutomation\\testJenkins\\SupportingFiles\\chromedriver.exe";
+			System.out.println(workDir);
+			System.setProperty("webdriver.chrome.driver", workDir);
 			driver=new ChromeDriver();
 			Logclass logclass=new Logclass();
 			logclass.initializeLogger();

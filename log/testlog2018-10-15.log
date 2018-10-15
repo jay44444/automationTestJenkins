@@ -135,3 +135,19 @@ Session ID: 9f506c2fbdc9477eca0928694b8a7bf2
 [INFO] 2018-10-15 18:37:47,403 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - The Price of this Product is   53,999
 [INFO] 2018-10-15 18:37:47,633 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - The Product Price is printed
 [INFO] 2018-10-15 18:37:48,721 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - User Signed out of the Account..
+[INFO] 2018-10-15 23:38:56,395 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef open_Google_Chrome - New Run Started.....................................
+[INFO] 2018-10-15 23:38:56,401 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef open_Google_Chrome - Google Chrome Opened
+[INFO] 2018-10-15 23:38:56,401 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef open_Google_Chrome - Amazon Homepage opened
+[INFO] 2018-10-15 23:38:57,280 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef i_search_for - User searching for a product
+[INFO] 2018-10-15 23:39:00,861 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef results_should_be_displayed - Search results Displayed
+[INFO] 2018-10-15 23:39:01,333 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - The Price of this Product is   53,999
+[INFO] 2018-10-15 23:39:01,622 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - The Product Price is printed
+[INFO] 2018-10-15 23:39:02,705 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - User Signed out of the Account..
+[INFO] 2018-10-15 23:39:37,081 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef open_Google_Chrome - New Run Started.....................................
+[INFO] 2018-10-15 23:39:37,088 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef open_Google_Chrome - Google Chrome Opened
+[INFO] 2018-10-15 23:39:37,089 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef open_Google_Chrome - Amazon Homepage opened
+[INFO] 2018-10-15 23:39:37,478 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef i_search_for - User searching for a product
+[INFO] 2018-10-15 23:39:39,716 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef results_should_be_displayed - Search results Displayed
+[INFO] 2018-10-15 23:39:39,792 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - The Price of this Product is   53,999
+[INFO] 2018-10-15 23:39:40,073 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - The Product Price is printed
+[INFO] 2018-10-15 23:39:41,162 com.jay.jenkinAutomation.testJenkins.Stepdef.AmazonDef its_price_will_be_printed - User Signed out of the Account..
